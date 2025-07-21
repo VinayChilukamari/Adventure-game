@@ -1,5 +1,5 @@
 
-# Project: Choose your own adventure game ~credit -tech with tim
+# Project: Choose your own adventure game ~ project idea credit -tech with tim
 
 def choose_options():
     player_choice=input('Where do you want to go, Left or Right?').lower()
